@@ -23,6 +23,11 @@ bodyClass: page-home
 </div>
 
 <div class="strip">
+  <div class="row justify-content-center">
+    <div class="col-auto">
+      <a class="button button-primary">Uitgelicht</a>
+    </div>
+  </div>
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign featured_wines = site.services | where: "featured", true | sort: "weight" %}
