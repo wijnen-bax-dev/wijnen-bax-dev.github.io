@@ -15,5 +15,5 @@ Wij werken samen met deze wijnhuizen:
 [![Bolyki](/images/features/Bolyki.jpg)](/services/)
 - [Wijnhuis 2](/wijnhuis2/)
 - [Wijnhuis 3](/wijnhuis3/)
-` `  
-` `  
+<br/>
+<br/>
