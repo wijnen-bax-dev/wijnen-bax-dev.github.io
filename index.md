@@ -10,3 +10,8 @@ intro_image_hide_on_mobile: false
 # Hungarian Wines Bax
 
 Heerlijke Hongaarse producten om van te genieten in alle omstandigheden.
+
+Wij werken samen met deze wijnhuizen:
+- [Bolyki](/services/)
+- Wijnhuis 2
+- Wijnhuis 3
