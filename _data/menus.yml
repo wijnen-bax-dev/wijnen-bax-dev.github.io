@@ -3,7 +3,7 @@ main:
     url: "https://shop.wijnen-bax.be"
     weight: 1
   - name: "Bolyki"
-    url: "/services/"
+    url: "/bolyki/"
     weight: 2
   - name: "Wijnhuis 2"
     url: "/wijnhuis2/"
