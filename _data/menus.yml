@@ -2,18 +2,24 @@ main:
   - name: "Webshop"
     url: "https://shop.wijnen-bax.be"
     weight: 1
-  - name: "Wijn"
+  - name: "Bolyki"
     url: "/services/"
     weight: 2
+  - name: "Wijnhuis 2"
+    url: "/wijnhuis2/"
+    weight: 3
+  - name: "Wijnhuis 3"
+    url: "/wijnhuis3/"
+    weight: 4
   - name: "Voeding"
     url: "/team/"
-    weight: 3
+    weight: 5
   - name: "Over ons"
     url: "/about/"
-    weight: 4
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 7
 
 footer:
   - name: "Home"
