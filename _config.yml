@@ -32,6 +32,8 @@ collections:
     output: true
   bolyki:
     output: true
+  kokeny:
+    output: true
 
 
 sass:
