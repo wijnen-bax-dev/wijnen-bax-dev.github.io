@@ -30,6 +30,8 @@ collections:
     output: true
   geszler:
     output: true
+  bolyki:
+    output: true
 
 
 sass:
