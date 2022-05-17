@@ -6,7 +6,7 @@ main:
     url: "/bolyki/"
     weight: 2
   - name: "Geszler"
-    url: "/Geszler/"
+    url: "/geszler/"
     weight: 3
   - name: "Kokeny es Fia"
     url: "/kokeny/"
