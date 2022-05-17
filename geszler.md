@@ -1,6 +1,6 @@
 ---
 title: Hungarian Wines Bax
-layout: geszler
+layout: products
 intro_image: "images/logo-wijnen.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
