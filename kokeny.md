@@ -6,6 +6,6 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Wijnhuis 3
+# Kokeny es Fia
 
 Vele smaken, voor elke gelegenheid de perfecte match.
