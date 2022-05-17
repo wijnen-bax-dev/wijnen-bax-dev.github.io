@@ -13,7 +13,7 @@ Heerlijke Hongaarse producten om van te genieten in alle omstandigheden.
 
 Wij werken samen met deze wijnhuizen:
 [![Bolyki](/images/features/Bolyki.jpg)](/bolyki/)
-- [Wijnhuis 2](/wijnhuis2/)
-- [Wijnhuis 3](/wijnhuis3/)
+- [![Geszler](/images/features/Geszler.png)](/geszler/)
+- [![Kokeny](/images/features/Kokeny.png)][Wijnhuis 3](/kokeny/)
 <br/>
 <br/>
