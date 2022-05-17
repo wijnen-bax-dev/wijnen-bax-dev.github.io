@@ -5,11 +5,11 @@ main:
   - name: "Bolyki"
     url: "/bolyki/"
     weight: 2
-  - name: "Wijnhuis 2"
-    url: "/wijnhuis2/"
+  - name: "Geszler"
+    url: "/Geszler/"
     weight: 3
-  - name: "Wijnhuis 3"
-    url: "/wijnhuis3/"
+  - name: "Kokeny es Fia"
+    url: "/Kokeny/"
     weight: 4
   - name: "Voeding"
     url: "/team/"
