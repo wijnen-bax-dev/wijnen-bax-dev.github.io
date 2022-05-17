@@ -31,7 +31,9 @@ collections:
    geszler:
     output: true
     kokeny:
-    output: true 
+    output: true
+    bolyki:
+     output: true
 
 sass:
   indentWidth: 4
