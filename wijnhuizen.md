@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: false
 # Onze geselecteerde wijnhuizen
 
 [![Bolyki](/images/features/Bolyki.jpg)](/bolyki/)
-- [Wijnhuis 2](/geszler/)
-- [Wijnhuis 3](/kokeny/)
+[![Geszler](/images/features/Geszler.png)](/geszler/)
+[![Kokeny](/images/features/Kokeny.png)](/kokeny/)
 <br/>
 <br/>
