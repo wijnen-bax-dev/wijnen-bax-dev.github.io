@@ -9,7 +9,7 @@ main:
     url: "/Geszler/"
     weight: 3
   - name: "Kokeny es Fia"
-    url: "/Kokeny/"
+    url: "/kokeny/"
     weight: 4
   - name: "Voeding"
     url: "/team/"
