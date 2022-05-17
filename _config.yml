@@ -28,7 +28,9 @@ collections:
     output: true
   products:
     output: true
-  
+  geszler:
+    output: true
+
 
 sass:
   indentWidth: 4
