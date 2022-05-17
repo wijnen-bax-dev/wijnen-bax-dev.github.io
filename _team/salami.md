@@ -8,7 +8,7 @@ layout: service
 
 Pick wintersalami, 380g
 
-![Kolbasz](/images/wintersalami.jpg)
+![Wintersalami](/images/wintersalami.jpg)
 
 
 ### Prijs
