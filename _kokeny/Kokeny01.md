@@ -19,4 +19,4 @@ Droogheidsgraad: droog
 
 ### Prijs
 
-8 €
+10 €

@@ -13,4 +13,4 @@ Pick wintersalami, 380g
 
 ### Prijs
 
-?? € per stuk (500-600 gram)
+9 € per stuk (380 gram)
